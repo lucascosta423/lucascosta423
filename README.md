@@ -23,8 +23,8 @@ Frontend com JavaScript, TypeScript, Angular e Backend com Java + Spring Boot.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lucas-Costa-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Costa-Dev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucascosta423&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosta423&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
