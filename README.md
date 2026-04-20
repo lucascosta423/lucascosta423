@@ -7,7 +7,7 @@ Frontend com JavaScript, TypeScript, Angular e Backend com Java + Spring Boot.
 
 ## 💻 Tecnologias
 
-<div style="display: inline-flex;flex-direction: row; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex;flex-direction: row;gap: 8px;">
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
