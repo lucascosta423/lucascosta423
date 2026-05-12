@@ -1,41 +1,86 @@
-## 👋 Olá, me chamo Lucas — café? ☕
+# 👋 Olá, eu sou Lucas Santos
 
-Desenvolvedor em formação com foco em **FullStack**. Atualmente estudando
-Frontend com JavaScript, TypeScript, Angular e Backend com Java + Spring Boot.
+Desenvolvedor FullStack com foco em aplicações backend escaláveis utilizando **Java + Spring Boot** e interfaces modernas com **Angular, Vue Js e TypeScript**.
+
+Tenho experiência no desenvolvimento de APIs REST, integrações OAuth2, automações de processos e otimização de consultas em PostgreSQL, sempre buscando construir soluções performáticas, organizadas e de fácil manutenção.
 
 ---
 
-## 💻 Tecnologias
+# 🚀 Tecnologias & Ferramentas
 
 <p align="left">
-  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Angular" height="30" src="https://img.icons8.com/color/40/angularjs.png">
-  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Spring" height="30" src="https://img.icons8.com/color/30/spring-logo.png">
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="Spring Boot" height="35" src="https://img.icons8.com/color/48/spring-logo.png">
+  <img alt="PostgreSQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="Angular" height="35" src="https://img.icons8.com/color/48/angularjs.png">
+  <img alt="TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Principais áreas de atuação
+
+- Desenvolvimento Backend com Spring Boot
+- APIs REST
+- Spring Batch
+- PostgreSQL e otimização de queries
+- Angular + TypeScript
+- Integrações OAuth2
+- Automação de processos com Quartz Scheduler
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucascosta423&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosta423&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.shion.dev/api?username=lucascosta423&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lucascosta423&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 📬 Onde me encontrar
+# 🛠 Projetos & Estudos
+
+## 📦 Exportação Massiva de Dados
+Projeto utilizando:
+- Spring Batch
+- PostgreSQL COPY
+- Paginação baseada em chave
+- Exportação performática para CSV
+
+---
+
+## 🔐 Integração OAuth2 Itaú
+Automação de autenticação OAuth2 com:
+- Renovação automática de tokens
+- Quartz Scheduler
+- Persistência de credenciais
+- Integração REST segura
+
+---
+
+# 📫 Contato
 
 <div>
   <a href="mailto:lucascosta.ls58@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/lucas-santos-desenv/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+---
+
+# ☕ Sobre mim
+
+Gosto de trabalhar com backend, performance e arquitetura de aplicações, buscando sempre desenvolver soluções escaláveis e bem estruturadas.
+
+🚀 Sempre aprendendo e evoluindo através da prática.
